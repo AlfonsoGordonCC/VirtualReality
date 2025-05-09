@@ -1,15 +1,6 @@
-# Virtual Reality
-This repository contains my project for my "Projects on Biomedical Engineering II" course and the final projects for the courses of the "Exclusive Degree in Virtual Reality for Videogames and Interactive Experiences" by San Pablo-CEU university.
+# Multiplayer integration
 
-This "Main" branch is just a guideline of the different projects you can find in this repository. Each branch contains the full projects with a report of my contribution.
-For team projects, the GitHub/LinkedIn profiles of the members will be mentioned as a way of crediting them.
+This project was made for my course "Projects on Biomedical Engineering II". This project implemented a gamification and multiplayer system on a Virtual Reality serious game developed by [Ana Rojo Agustí](https://www.linkedin.com/in/ana-rojo-agusti/) under her and [Rodrigo Garcia Carmona's](https://www.linkedin.com/in/rgarciacarmona/) guidance.
 
-Last but not least, thanks to [Rodrigo Garcia Carmona](https://www.linkedin.com/in/rgarciacarmona/), the director of the titulation, and to all the professors I had during this titulation, specially to [Ana Rojo Agustí](https://www.linkedin.com/in/ana-rojo-agusti/) as she was the one in charge of introducing us to the Virtual Reality programming and being my mentors during this years.
-
-
-# Branches Guideline
-1. FPR: Final Project for the "Video Game Programming Fundamentals" course
-3. PAV: Final Project for the "Advanced Video Game Programming" course
-4. BME_II: Project for the "Projects on Biomedical Engineering II" course
-
-cambio en rama
+For more details look at the [Multiplayer.pdf]() file.
+As the project is not originally mine, this branch will only include my code, but NOT the full project.
