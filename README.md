@@ -8,6 +8,6 @@ Last but not least, thanks to [Rodrigo Garcia Carmona](https://www.linkedin.com/
 
 
 # Branches Guideline
-1. FPR: Final Project for the "Video Game Programming Fundamentals" course
+1. BME_II: Project for the "Projects on Biomedical Engineering II" course
+2. FPR: Final Project for the "Video Game Programming Fundamentals" course
 3. PAV: Final Project for the "Advanced Video Game Programming" course
-4. BME_II: Project for the "Projects on Biomedical Engineering II" course
