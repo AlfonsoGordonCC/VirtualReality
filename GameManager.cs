@@ -118,7 +118,7 @@ public class GameManager : MonoBehaviourPunCallbacks
     #endregion GM
 
     #region GAMIFICATION_VARIABLES
-    //-----------------------GAMIFICACIÓN---------------
+    //-----------------------GAMIFICACION---------------
     [Header("Gamificacion")]
     [Space(3)]
     public GameObject botonAccion; //Para activar el booster
@@ -130,7 +130,7 @@ public class GameManager : MonoBehaviourPunCallbacks
                                     //que tenia el jugador antes de activar el booster
     private bool usosDef;
     private bool reflejo;
-    private bool goFaster; /*[ARojo] Bool para aumentar la velocidad*/
+    private bool goFaster; //Bool para aumentar la velocidad
     private bool goSlower;
     private bool goNiebla;
     private bool revertir;
@@ -157,8 +157,8 @@ public class GameManager : MonoBehaviourPunCallbacks
     #endregion GAMIFICATION_VARIABLES
 
     #region PRIVATE_MONOBEHAVIOUR_METHODS
-    /*[ARojo] Incluyo los OnEnable y OnDisable methods*/
-    public override void OnEnable()
+
+        public override void OnEnable()
     {
         PV = GetComponent<PhotonView>();
         miniatura.sprite = vacio;
