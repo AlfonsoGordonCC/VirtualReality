@@ -1,13 +1,7 @@
-# Virtual Reality
-This repository contains my project for my "Projects on Biomedical Engineering II" course and the final projects for the courses of the "Exclusive Degree in Virtual Reality for Videogames and Interactive Experiences" by San Pablo-CEU university.
+# Metaverse
+This project was done in colaboration with [Pablo Carnero Olavarria](https://www.linkedin.com/in/pablo-carnero-olavarria/). Unity version 2020.3.20f1 LTS. The game is in Spanish.
+This metaverse allows a multilpayer enviroment on a RPG environment. Is a central lobby distribution where different doors take to differnt places, each with a unique minigame:
 
-This "Main" branch is just a guideline of the different projects you can find in this repository. Each branch contains the full projects with a report of my contribution.
-For team projects, the GitHub/LinkedIn profiles of the members will be mentioned as a way of crediting them.
-
-Last but not least, thanks to [Rodrigo Garcia Carmona](https://www.linkedin.com/in/rgarciacarmona/), the director of the titulation, and to all the professors I had during this titulation, specially to [Ana Rojo Agustí](https://www.linkedin.com/in/ana-rojo-agusti/) as she was the one in charge of introducing us to the Virtual Reality programming and being my mentors during this years.
-
-
-# Branches Guideline
-1. FPR: Final Project for the "Video Game Programming Fundamentals" course
-3. PAV: Final Project for the "Advanced Video Game Programming" course
-4. BME_II: Project for the "Projects on Biomedical Engineering II" course
+- Forrest: play hide and seek with a kid
+- Lake: fishing
+- Training: bow practice.
