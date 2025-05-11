@@ -5,3 +5,6 @@ This metaverse allows a multilpayer enviroment on a RPG environment. Is a centra
 - Forrest: play hide and seek with a kid
 - Lake: fishing
 - Training: bow practice.
+
+
+My main aportations were the Multiplayer system, the hide and seek minigame, the swiming on the lake and the monetization system.
