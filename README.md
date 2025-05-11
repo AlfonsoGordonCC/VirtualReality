@@ -7,4 +7,6 @@ This metaverse allows a multilpayer enviroment on a RPG environment. Is a centra
 - Training: bow practice.
 
 
-My main aportations were the Multiplayer system, the hide and seek minigame, the swiming on the lake and the monetization system.
+My main aportations were the Multiplayer system, the hide and seek minigame, the swiming on the lake and the monetization system. This can be found as individual files.
+
+The projec tis able for downloading but an unkown bug does not allow executions sometimes.
